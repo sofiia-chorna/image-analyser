@@ -22,7 +22,7 @@
     "axios": "1.4.0",
     "bcrypt": "5.1.0",
     "dotenv": "16.1.0",
-    "fastify": "4.17.0",
+    "fastify": "4.29.0",
     "googleapis": "118.0.0",
     "jsonwebtoken": "9.0.0",
     "neo4j-driver": "5.8.1",
