@@ -27,7 +27,7 @@
     "jsonwebtoken": "9.0.0",
     "neo4j-driver": "5.8.1",
     "qs": "6.11.2",
-    "query-string": "8.1.0",
+    "query-string": "8.2.0",
     "rxjs": "7.8.1",
     "shared": "file:../shared",
     "uuid": "9.0.0"
