@@ -26,7 +26,7 @@
     "googleapis": "118.0.0",
     "jsonwebtoken": "9.0.0",
     "neo4j-driver": "5.8.1",
-    "qs": "6.11.2",
+    "qs": "6.14.0",
     "query-string": "8.1.0",
     "rxjs": "7.8.1",
     "shared": "file:../shared",
